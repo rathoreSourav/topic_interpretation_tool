@@ -20,14 +20,7 @@ Please read the instructions as below:
 
 
 Contributors:
-	TIMG 5303 - Group 10
-		Sourav Singh
-		Soumya Unhale
-		Gargi Nayak
-		Mohit Pandey
-		Priya Lakhanpal
-		Vibhor Bhandari
-		ManojKumar Vanipenda
+Sourav Singh
 
 
 ************Thank You!****************
