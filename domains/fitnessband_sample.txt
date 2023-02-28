@@ -1,0 +1,6 @@
+apple, https://www.apple.com/in/watch/
+samsung, https://www.samsung.com/ca/watches/
+fitbit, https://www.fitbit.com/global/us/products/smartwatches
+garmin, https://www.garmin.com/en-CA/c/wearables-smartwatches/
+huwaei,https://consumer.huawei.com/ca/wearables/
+xiomi, https://www.mi.com/global/product/mi-watch/

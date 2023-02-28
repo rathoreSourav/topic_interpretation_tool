@@ -1,0 +1,1 @@
+summarize(article.text, 0.05)
